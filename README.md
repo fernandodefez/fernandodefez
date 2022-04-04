@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fernandodefez
 - 👀 I’m interested in playing Software Architecture
-- 🌱 I’m currently learning Vue and Laravel
-- 💞️ I’m looking to collaborate on projects that has to do with Go
+- 🌱 I’m currently learning React and Laravel
+- 💞️ I’m looking to collaborate on projects that has to do with PHP
 - 📫 I do not want you to reach me.
 
 <!---
