@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fernandodefez
 - 👀 I’m interested in learning Software Architecture
-- 🌱 I’m currently learning Vue and Laravel
+- 🌱 I’m currently working as a Software Developer
 - 💞️ I’m looking to collaborate on web, mobile and desktop projects.
 
 <!---
