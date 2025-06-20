@@ -1,4 +1,4 @@
-### Sobre mí
+## Sobre mí
 
 👋 Hola, soy Fernando.  
 💻 Ingeniero en Sistemas Computacionales con más de 2 años de experiencia en desarrollo de software, principalmente en tecnologías web, móvil y cloud.  
@@ -7,9 +7,9 @@
 
 ---
 
-### Proyectos que he liderado y en los que he participado
+## Proyectos que he liderado y en los que he participado
 
-#### 🚧 Migración y rediseño de la plataforma de lealtad **Tuki**
+### 🚧 Migración y rediseño de la plataforma de lealtad **Tuki**
 
 Lideré la migración de la infraestructura y el rediseño completo de la plataforma de lealtad [**Tuki**](https://tukicard.com/), optimizando su rendimiento, mejorando su accesibilidad y experiencia de usuario, así como su seguridad y escalabilidad.
 
@@ -57,7 +57,7 @@ Lideré la migración de la infraestructura y el rediseño completo de la plataf
 
 ---
 
-#### 📱 Desarrollo y despliegue de aplicaciones móviles
+### 📱 Desarrollo y despliegue de aplicaciones móviles
 
 He participado en el desarrollo y publicación de aplicaciones móviles que consumen los servicios de la plataforma de lealtad de **Tuki**, adaptadas a las necesidades de cada cliente.
 
@@ -91,7 +91,7 @@ He participado en el desarrollo y publicación de aplicaciones móviles que cons
 
 ---
 
-#### 🚧 Desarrollo de la primera fase de **Creativo Lab**, una plataforma que permite gestionar el contenido de plantillas de perfiles profesionales
+### 🚧 Desarrollo de la primera fase de **Creativo Lab**, una plataforma que permite gestionar el contenido de plantillas de perfiles profesionales
 
 Llevé a cabo el desarrollo de la primera fase de esta plataforma. Dicha fase involucró la creación de la landing page, el panel administrativo y la REST API para su versión móvil.
 
@@ -104,9 +104,9 @@ Llevé a cabo el desarrollo de la primera fase de esta plataforma. Dicha fase in
 
 ---
 
-### 🚀 Proyectos personales / Side projects
+## 🚀 Proyectos personales / Side projects
 
-#### 💡 Gestor de tareas (App de escritorio)
+### 💡 Gestor de tareas (App de escritorio)
 
 Desarrollé una aplicación de escritorio para la gestión sencilla de tareas. Este proyecto me permitió poner en práctica los conceptos de Programación Orientada a Objetos y el patrón de diseño MVC, en el lenguaje de programación con el que más cómodo me siento.
 
