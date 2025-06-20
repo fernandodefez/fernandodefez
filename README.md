@@ -34,21 +34,41 @@ He participado en el desarrollo y publicación de aplicaciones móviles que cons
 - **Rous:** App multicomercio que permite a los usuarios afiliarse mediante su CURP.  
   > *[Enlace a Google Play](https://play.google.com/store/apps/details?id=mx.marc.rous&hl=es_MX)*
   > y
-  > *[Enlace a App Store](https://play.google.com/store/apps/details?id=mx.marc.rous&hl=es_MX)*
+  > *[Enlace a App Store](https://apps.apple.com/mx/app/rous/id6471860278)*
 
 - **Bubayou:** App de un solo comercio que permite la compra de puntos a través de una pasarela de pago.  
-  > *[Enlace a la app]*
+  > *[Enlace a Google Play](https://play.google.com/store/apps/details?id=mx.marc.bubayou)*
+  > y
+  > *[Enlace a App Store](https://apps.apple.com/mx/app/bubayou/id15118202511)*
 
 - **Bertha's:** App de un solo comercio que permite la compra de membresías por parte de los afiliados.  
-  > *[Enlace a la app]*
+  > *[Enlace a Google Play](https://play.google.com/store/apps/details?id=mx.marc.berthas)*
+  > y
+  > *[Enlace a App Store](https://apps.apple.com/mx/app/berthas-movil/id6498956986)*
 
 - **Puntos Trotters:** App multicomercio que permite registrar visitas y redimir puntos en puntos de venta.  
-  > *[Enlace a la app]*
+  > *[Enlace a Google Play](https://play.google.com/store/apps/details?id=mx.marc.trotters)*
+  > y
+  > *[Enlace a App Store](https://apps.apple.com/mx/app/puntos-trotters/id1569454354)*
 
 - **Engow:** App para incentivar tanto a afiliados como a empleados de los comercios mediante dinámicas de puntos y recompensas.  
-  > *[Enlace a la app]*
+  > *[Enlace a Google Play](https://play.google.com/store/apps/details?id=mx.marc.engow)*
+  > y
+  > *[Enlace a App Store](https://apps.apple.com/mx/app/engow/id1475277688)*
 
 > Todas las aplicaciones soportan las funcionalidades básicas de un programa de lealtad: acumulación de puntos por visitas, canje de recompensas, cupones, personalización, niveles, comunicación y reportes. Lo que se destaca son las funcionalidades específicas que cada cliente solicitó.
+
+---
+
+#### 🚧 Desarroollo de la primera fase de **Creativo Lab** una plataforma que permite gestionar el contenido de plantillas de perfiles profesionales
+
+LLevé a cabo el desarrollo de la primera fase de esta plataforma, dicha fase involucró la creación de la landing page, panel administrativo, y la REST API para la versión móvil
+
+**Tecnologías utilizadas:**
+- **Backend:** PHP, PHPUnit, MySQL, Linux, MYSQL 
+- **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap
+
+🔗 [Visitar](https://dev.creativolab.com.mx/)
 
 ---
 
@@ -56,7 +76,7 @@ He participado en el desarrollo y publicación de aplicaciones móviles que cons
 
 #### 💡 Gestor de tareas (App de escritorio)
 
-Desarrollé una aplicación de escritorio para la gestión sencilla de tareas. Este proyecto me permitió poner en práctica los conceptos de Programación Orientada a Objetos y el patrón de diseño MVC.
+Desarrollé una aplicación de escritorio para la gestión sencilla de tareas. Este proyecto me permitió poner en práctica los conceptos de Programación Orientada a Objetos y el patrón de diseño MVC en el lenguaje de progrmación que más me gusta y siento cómodo
 
 **Tecnologías utilizadas:**
 - Java  
