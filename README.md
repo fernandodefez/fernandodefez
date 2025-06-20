@@ -32,7 +32,9 @@ He participado en el desarrollo y publicación de aplicaciones móviles que cons
 **Aplicaciones desarrolladas:**
 
 - **Rous:** App multicomercio que permite a los usuarios afiliarse mediante su CURP.  
-  > *[Enlace a Google Play o App Store si está disponible]*
+  > *[Enlace a Google Play](https://play.google.com/store/apps/details?id=mx.marc.rous&hl=es_MX)*
+  > y
+  > *[Enlace a App Store](https://play.google.com/store/apps/details?id=mx.marc.rous&hl=es_MX)*
 
 - **Bubayou:** App de un solo comercio que permite la compra de puntos a través de una pasarela de pago.  
   > *[Enlace a la app]*
